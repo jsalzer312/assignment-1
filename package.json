@@ -24,6 +24,7 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "lint": "^0.8.19"
   }
 }
